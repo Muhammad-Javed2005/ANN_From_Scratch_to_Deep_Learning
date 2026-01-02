@@ -29,7 +29,7 @@ The goal is to **build strong conceptual foundations** by implementing core idea
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Language:** Python 3.11  
 - **Libraries:**  
@@ -40,7 +40,7 @@ The goal is to **build strong conceptual foundations** by implementing core idea
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ```
 ANN_From_Scratch_to_Deep_Learning/
@@ -63,7 +63,7 @@ ANN_From_Scratch_to_Deep_Learning/
 
 ---
 
-## 📘 Notebook Explanations
+##  Notebook Explanations
 
 ### 1️⃣ Perceptron
 - The simplest neural network unit
@@ -134,7 +134,7 @@ ANN_From_Scratch_to_Deep_Learning/
 
 ---
 
-## 🚀 How to Use
+##  How to Use
 
 1. Clone the repository  
 ```bash
@@ -150,7 +150,7 @@ jupyter notebook
 
 ---
 
-## 📈 Who Is This For?
+##  Who Is This For?
 
 - Computer Science / Engineering students
 - Machine Learning beginners
@@ -160,7 +160,7 @@ jupyter notebook
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 - CNN and RNN implementations
 - Full ANN from scratch (no libraries)
@@ -169,14 +169,14 @@ jupyter notebook
 
 ---
 
-## 👤 Author
+##  Author
 
 **Muhammad Javed**  
 Computer Engineering Student | Machine Learning Enthusiast  
 
 ---
 
-## 📬 Contact
+##  Contact
 
 - **GitHub:** https://github.com/Muhammad-Javed2005  
 - **LinkedIn:** https://www.linkedin.com/in/muhammad-javed-24b262369/  

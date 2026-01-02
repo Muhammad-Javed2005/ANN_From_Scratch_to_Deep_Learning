@@ -1,5 +1,5 @@
 
-# ANN From Scratch to Deep Learning 🧠
+# ANN From Scratch to Deep Learning 
 
 ![Project Type](https://img.shields.io/badge/Type-Study%20Material-blue)
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
@@ -9,7 +9,7 @@
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 **ANN From Scratch to Deep Learning** is a complete **beginner-to-advanced study repository** developed by **Muhammad Javed**.
 
@@ -19,7 +19,7 @@ The goal is to **build strong conceptual foundations** by implementing core idea
 
 ---
 
-## 🎯 Learning Objectives
+##  Learning Objectives
 
 - Understand how Artificial Neural Networks work internally
 - Learn mathematical intuition behind ANN components
